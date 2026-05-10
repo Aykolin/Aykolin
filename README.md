@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>Hello World</h1>
+<div align="left">
+  <h1>Hello World!</h1>
   <img src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif" width="40%" alt="Loading">
 
 <br />
