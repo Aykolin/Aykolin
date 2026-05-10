@@ -44,9 +44,9 @@
 ---
 
 ### Education
-**Analysis and Systems Development** • `Concluído` *2024 - 2026*
+**Analysis and Systems Development** • `Completed` *2024 - 2026*
 <br />
-**Computer Science** • `Cursando`
+**Computer Science** • `In Progress`
 
 </div>
 
