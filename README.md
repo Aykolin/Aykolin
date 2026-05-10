@@ -41,6 +41,13 @@
 <br />
 **GeneIA** • `Private` *AI clinical assistant for healthcare providers.*
 
+---
+
+### Education
+**Análise e Desenvolvimento de Sistemas** • `Concluído` *2024 - 2026*
+<br />
+**Ciência da Computação** • `Cursando`
+
 </div>
 
 ---
