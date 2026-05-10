@@ -48,7 +48,7 @@
 <table border="0" width="100%">
   <tr>
     <td align="left" valign="middle">
-      <p><i>"Coding the future, one pixel at a time."</i></p>
+      <p><i>"As a child, I considered such unknowns sinister. Now, though, I understand they bear no ill will. The universe is, and we are."</i></p>
     </td>
     <td align="right" valign="middle" width="100px">
       <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="80px" alt="Pixel Cat">
